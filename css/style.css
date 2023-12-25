@@ -1062,6 +1062,12 @@ a:focus {
 
 }
 
+@media (max-width: 500px) {
+
+     .navbar-brand{
+      font-size: 18px;
+     }
+}
 
 
 @media (max-width: 992px) {
