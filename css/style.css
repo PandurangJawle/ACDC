@@ -1060,6 +1060,13 @@ a:focus {
 
       }
 
+      .hero_area .hero_bg_box img {
+        width: 300px;
+        height: 300px;
+        min-width: 100%;
+        min-height: 100%;
+      }
+
 }
 
 @media (max-width: 500px) {
