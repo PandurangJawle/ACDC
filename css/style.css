@@ -1,6 +1,4 @@
 
-
-
 body {
   font-family: 'Poppins', sans-serif;
   color: #0c0c0c;
@@ -107,6 +105,7 @@ a:focus {
   height: auto;
   min-width: 100%;
   min-height: 100%;
+  
 }
 
 .hero_area .hero_bg_box::before {
@@ -129,9 +128,6 @@ a:focus {
   background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
 }
 
-.header_section {
-  padding: 15px 0;
-}
 
 .header_section .container-fluid {
   padding-right: 25px;
@@ -159,11 +155,14 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   margin-left: auto;
+  
 }
+
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 30px;
-  color: #ffffff;
+  color: #0d0d0d;
+  font-weight: 700;
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
